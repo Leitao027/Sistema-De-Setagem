@@ -2,4 +2,4 @@
 
 Este sistema possui apenas suporte para framework vRP. 
 
-## Para realizar a conversão dele para CREATIVE ou qualquer outra framework você deve alterar por conta propria!
+O sistema é totalmente aberto, caso seja necessario a modificação é por sua conta.
